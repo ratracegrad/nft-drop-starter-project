@@ -1,0 +1,19 @@
+{
+  "name": "Eiffel Tower",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DVctxJGYPswZTprkUQqwn3gto8JhW4Dzn9Mc3xnJJiPv",
+        "share": 100
+      }
+    ]
+  }
+}

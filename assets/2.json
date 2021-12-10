@@ -1,0 +1,19 @@
+{
+  "name": "Louvre",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DVctxJGYPswZTprkUQqwn3gto8JhW4Dzn9Mc3xnJJiPv",
+        "share": 100
+      }
+    ]
+  }
+}

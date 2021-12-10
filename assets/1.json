@@ -1,0 +1,19 @@
+{
+  "name": "Arc Triumph",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DVctxJGYPswZTprkUQqwn3gto8JhW4Dzn9Mc3xnJJiPv",
+        "share": 100
+      }
+    ]
+  }
+}
